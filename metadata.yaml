@@ -1,0 +1,40 @@
+_repo: Unconscious-Comedians_1242
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Wormeley, Katharine Prescott
+    birthdate: 1830
+    deathdate: 1908
+    gutenberg_agent_id: '661'
+    url: http://www.gutenberg.org/2009/agents/661
+    wikipedia: http://en.wikipedia.org/wiki/Katherine_Prescott_Wormeley
+creator:
+  author:
+    agent_name: Balzac, Honoré de
+    aliases:
+    - Saint-Aubin, Horace de
+    - Balzac, H. de (Honoré de)
+    - De Balzac, Honoré
+    - Balzac, Honore de
+    birthdate: 1799
+    deathdate: 1850
+    gutenberg_agent_id: '251'
+    url: http://www.gutenberg.org/2009/agents/251
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Honoré_de_Balzac
+    - http://fr.Wikipedia.org/wiki/Honoré_de_Balzac
+description: ''
+gutenberg_issued: '1998-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1242'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'French fiction -- Translations into English'
+- !lcc 'PQ'
+- GITenberg
+title: Unconscious Comedians
+url: http://www.gutenberg.org/ebooks/1242
